@@ -1,0 +1,48 @@
+
+<====== Detail of students who borrow the book ======>
+
+Name of students : Sophavisnuka
+Date that students borrow the book : 28/06/2024
+Students phone number : 01098621
+<======================= Book =======================>
+
+Name of book : Harry potter
+ID of book : 100
+Type of book : Fanatsy
+<---------------------------------------------------->
+
+<====== Detail of students who borrow the book ======>
+
+Name of students : Serey
+Date that students borrow the book : 22/07/2024
+Students phone number : 095583302
+<======================= Book =======================>
+
+Name of book : Spider man
+ID of book : 102
+Type of book : Comic
+<---------------------------------------------------->
+
+<====== Detail of students who borrow the book ======>
+
+Name of students : Nuka
+Date that students borrow the book : 22/07/2024
+Students phone number : 010986210
+<======================= Book =======================>
+
+Name of book : kkk
+ID of book : 103
+Type of book : hi
+<---------------------------------------------------->
+
+<====== Detail of students who borrow the book ======>
+
+Name of students : Visnuka
+Date that students borrow the book : 24/07/2024
+Students phone number : 095583302
+<======================= Book =======================>
+
+Name of book : Oggy
+ID of book : 121
+Type of book : Cartoon
+<---------------------------------------------------->
