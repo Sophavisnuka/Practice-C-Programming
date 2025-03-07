@@ -1,0 +1,34 @@
+
+======= New book that just add =======
+
+Book name : Spider man      
+ID : 102
+Type of that book : Comic
+Author name : Stan lee
+--------------------------------------
+======= New book that just add =======
+
+Book name : Game of Throne  ID : 110
+Book ID : 110
+Type of that book : Fantasy
+Author name : Lee
+
+--------------------------------------
+
+======= New book that just add =======
+
+Book name : Maze run ID : 120
+Book ID : 120
+Type of that book : Action
+Author name : Lee
+
+--------------------------------------
+
+======= New book that just add =======
+
+Book name : Oggy ID : 121
+Book ID : 121
+Type of that book : Cartoon
+Author name : Ka
+
+--------------------------------------
